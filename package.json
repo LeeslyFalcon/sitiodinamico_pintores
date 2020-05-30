@@ -1,0 +1,24 @@
+{
+  "name": "sitiodinamico_pintores",
+  "version": "1.0.0",
+  "description": "Un sitio Web Dinamito de pintores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeslyFalcon/sitiodinamico_pintores.git"
+  },
+  "author": "Leesly Falcón Martínez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeslyFalcon/sitiodinamico_pintores/issues"
+  },
+  "homepage": "https://github.com/LeeslyFalcon/sitiodinamico_pintores#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-hbs": "^2.3.3",
+    "hbs": "^4.1.1"
+  }
+}
